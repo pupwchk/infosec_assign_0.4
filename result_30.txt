@@ -1,0 +1,2 @@
+# Nmap 7.99 scan initiated Sat Apr 18 16:07:16 2026 as: nmap -p 80,443,8080 --open -T3 -oN result_30.txt 166.104.30.0/24
+# Nmap done at Sat Apr 18 16:09:20 2026 -- 256 IP addresses (7 hosts up) scanned in 123.66 seconds

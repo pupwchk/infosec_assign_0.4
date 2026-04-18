@@ -1,0 +1,34 @@
+# Nmap 7.99 scan initiated Sat Apr 18 23:12:27 2026 as: nmap -p 80,443,8080 -T3 --open -oN scan_177.txt 166.104.177.0/24
+Nmap scan report for 166.104.177.20
+Host is up (0.0076s latency).
+Not shown: 1 filtered tcp port (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 166.104.177.155
+Host is up (0.0067s latency).
+Not shown: 1 filtered tcp port (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for portal.hanyang.ac.kr (166.104.177.170)
+Host is up (0.018s latency).
+Not shown: 1 filtered tcp port (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 166.104.177.180
+Host is up (0.0070s latency).
+Not shown: 1 filtered tcp port (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+# Nmap done at Sat Apr 18 23:13:20 2026 -- 256 IP addresses (4 hosts up) scanned in 53.15 seconds

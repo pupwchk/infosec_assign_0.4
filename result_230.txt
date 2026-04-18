@@ -1,0 +1,1 @@
+# Nmap 7.99 scan initiated Sat Apr 18 20:37:12 2026 as: nmap -p 80,443,8080 --open -T3 -oN result_230.txt 166.104.230.0/24
